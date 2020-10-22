@@ -8,7 +8,7 @@
 
 - ☕ Senior coffee maker
 - 🔭 Angular & typescript lover
-- 🌱 I’m currently deeping in angular animations
+- 🌱 I’m currently deeping Reactive programming with Rxjs
 - 👯 I’m looking to collaborate on any angular app
 - 💬 Ask me about anything
 - 📫 How to reach me: abelfubu@gmail.com
