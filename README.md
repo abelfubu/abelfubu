@@ -24,4 +24,6 @@ I am Abel de la Fuente. I am a 👨‍💻 frontend developer, an avid learner w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing NgRx component-store with Jest](https://abelfubu.hashnode.dev/testing-ngrx-component-store-with-jest)
+- [Prisma 2 - Como instalar prisma en un monorepo con NX para Nest.js](https://abelfubu.hashnode.dev/prisma-2-como-instalar-prisma-en-un-monorepo-con-nx-para-nestjs)
 <!-- BLOG-POST-LIST:END -->
