@@ -14,9 +14,14 @@ I am Abel de la Fuente. I am a 👨‍💻 frontend developer, an avid learner w
 
 - ☕ Senior coffee maker
 - 🔭 Angular & typescript lover
-- 🌱 I’m currently deeping into Redux dessign patterns programming with Rxjs and NgRx
+- 🌱 I’m currently deeping into testing with Cypress and Jest
 - 👯 I’m looking to collaborate on any angular app
 - 💬 Ask me about anything
 - 📫 How to reach me: abelfubu@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do too many things (trekking, ramen, illustration, udemy, music, playing guitar, videogaming, english...) I really don't know where I get the time from...
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
