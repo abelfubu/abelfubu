@@ -1,0 +1,15 @@
+{
+  "foo":{
+    "prefix": "foo",
+    "scope": "markdown",
+    "body": "# Hi there!",
+    "description": "foo snippet"
+  },
+  "cons":{
+    "prefix": "cons",
+    "scope": "javascript",
+    "body": "console.log('Hello')",
+    "description": "console.log"
+  },
+
+}
