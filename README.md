@@ -14,7 +14,7 @@ I am Abel de la Fuente. I am a 👨‍💻 frontend developer, an avid learner w
 
 - ☕ Senior coffee maker
 - 🔭 Angular & typescript lover
-- 🌱 I’m currently deeping into testing with Cypress and Jest
+- 🌱 I'm currently interested on devops, performance and cloud
 - 👯 I’m looking to collaborate on any angular app
 - 💬 Ask me about anything
 - 📫 How to reach me: abelfubu@gmail.com
