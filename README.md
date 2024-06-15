@@ -12,6 +12,8 @@ I am Abel de la Fuente. I am a 👨‍💻 frontend developer, an avid learner w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelfubu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://gitroll.io/profile/ug6sBPnofq5cMdrtsPaYn6jtuIvD3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ug6sBPnofq5cMdrtsPaYn6jtuIvD3" alt="GitRoll Profile Badge"/></a>
+
 - ☕ Senior coffee maker
 - 🔭 Angular & typescript lover
 - 🌱 I'm currently interested on devops, performance and cloud
