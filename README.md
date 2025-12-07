@@ -8,9 +8,7 @@ I am Abel de la Fuente. I am a 👨‍💻 frontend developer, an avid learner w
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abelfubu&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelfubu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://githubcard.com/abelfubu.svg?d=l7vcblnc)
 
 - ☕ Senior coffee maker
 - 🔭 Angular & typescript lover
